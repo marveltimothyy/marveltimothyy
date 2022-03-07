@@ -7,8 +7,8 @@ Hi there 👋, i am Marvel, A fourth-year Informatics Engineering student at Bra
 <a href="https://www.python.org/" target="blank"><img align="center" src="https://img.shields.io/badge/-Python-00001F?style=flat-square&labelColor=C1BEBC&logo=python"/></a>
 <a href="https://pytorch.org/" target="blank"><img align="center" src="https://img.shields.io/badge/-Pytorch-E94C2A?style=flat-square&labelColor=C1BEBC&logo=pytorch"/></a>
 <a href="https://codeigniter.com/" target="blank"><img align="center" src="https://img.shields.io/badge/-Codeigniter-FFFFFF?style=flat-square&labelColor=C1BEBC&logo=codeigniter"/></a>
-<a href="https://codeigniter.com/" target="blank"><img align="center" src="https://img.shields.io/badge/-Flask-B9B1AC?style=flat-square&labelColor=000000&logo=flask"/></a>
-<a href="https://codeigniter.com/" target="blank"><img align="center" src="https://img.shields.io/badge/-Git-00446F?style=flat-square&labelColor=C1BEBC&logo=git"/></a>
+<a href="https://flask.palletsprojects.com/en/2.0.x/" target="blank"><img align="center" src="https://img.shields.io/badge/-Flask-B9B1AC?style=flat-square&labelColor=000000&logo=flask"/></a>
+<a href="https://git-scm.com/" target="blank"><img align="center" src="https://img.shields.io/badge/-Git-00446F?style=flat-square&labelColor=C1BEBC&logo=git"/></a>
 <br><br><br>
 # Ongoing Project 🎯
 <a href = "https://github.com/marveltimothyy/Chatbot_Deploy">Deep Neural Network Chatbot</a>

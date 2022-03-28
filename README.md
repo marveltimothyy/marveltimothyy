@@ -1,5 +1,5 @@
 # Intro 🧑
-Hi there 👋, i am Marvel, A fourth-year Informatics Engineering student at Brawijaya University with interest in Data Science and Deep Learning. Seeking project or internship opportunities to implement my skills in Data Analysis and Deep Learning. Currently doing research about Generative Chatbot using Sequence-to-sequence architecture with attention mechanism and deployed using Digital Ocean and Flask
+Hi there 👋, i am Marvel, A fourth-year Informatics Engineering student at Brawijaya University with interest in Data Science and Deep Learning. Seeking project or internship opportunities to implement my skills in Data Analysis and Deep Learning. Currently focusing in research about Generative Chatbot using Sequence-to-sequence architecture with attention mechanism and deployed using Digital Ocean and Flask
 <br>
 <br>
 <br>

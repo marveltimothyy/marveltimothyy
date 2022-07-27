@@ -10,7 +10,7 @@ Hi there 👋, i am Marvel, A fourth-year Informatics Engineering student at Bra
 <a href="https://git-scm.com/" target="blank"><img align="center" src="https://img.shields.io/badge/-Git-00446F?style=flat-square&labelColor=C1BEBC&logo=git"/></a>
 And willing to learn other related tools!
 <br><br><br>
-# Ongoing Project 🎯
+# Recent Project 🎯
 <a href = "https://github.com/marveltimothyy/Chatbot_Deploy">Deep Neural Network Chatbot</a>
 <br><br><br>
 # Connects with me 🤝

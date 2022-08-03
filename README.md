@@ -16,4 +16,4 @@ And willing to learn other related tools!
 <a href = "https://github.com/marveltimothyy/Generative-Chatbot">Deep Neural Network Chatbot Training</a>
 <br><br><br>
 # Connects with me 🤝
-<a href="https://www.linkedin.com/in/marvelmanullang/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="40" /></a>
+<a href="https://www.linkedin.com/in/marveltrm/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="40" /></a>

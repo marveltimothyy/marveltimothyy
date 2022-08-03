@@ -11,7 +11,9 @@ Hi there 👋, i am Marvel, Currently graduated as UNDERGRADUATE DEGREE IN COMPU
 And willing to learn other related tools!
 <br><br><br>
 # Recent Project 🎯
-<a href = "https://github.com/marveltimothyy/Chatbot_Deploy">Deep Neural Network Chatbot</a>
+<a href = "https://github.com/marveltimothyy/Chatbot_Deploy">Deep Neural Network Chatbot Deployment</a>
+<br>
+<a href = "https://github.com/marveltimothyy/Generative-Chatbot">Deep Neural Network Chatbot Training</a>
 <br><br><br>
 # Connects with me 🤝
 <a href="https://www.linkedin.com/in/marvelmanullang/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="40" /></a>

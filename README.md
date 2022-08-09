@@ -11,11 +11,11 @@ Hi there 👋, i am Marvel, Currently graduated as UNDERGRADUATE DEGREE IN COMPU
 And willing to learn other related tools!
 <br><br><br>
 # Recent Project 🎯
-<a href = "https://github.com/marveltimothyy/Data-Visualization">Netflix Movie and Tv Show Analysis</a>
+•<a href = "https://github.com/marveltimothyy/Data-Visualization">Netflix Movie and Tv Show Analysis</a>
 <br>
-<a href = "https://github.com/marveltimothyy/Generative-Chatbot">Deep Neural Network Chatbot Training</a>
+•<a href = "https://github.com/marveltimothyy/Generative-Chatbot">Deep Neural Network Chatbot Training</a>
 <br>
-<a href = "https://github.com/marveltimothyy/Chatbot_Deploy">Deep Neural Network Chatbot Deployment</a>
+•<a href = "https://github.com/marveltimothyy/Chatbot_Deploy">Deep Neural Network Chatbot Deployment</a>
 <br>
 <br><br>
 # Connects with me 🤝

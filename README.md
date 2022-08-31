@@ -1,5 +1,5 @@
 # Intro 🧑
-Hi there 👋, i am Marvel, Currently graduated as UNDERGRADUATE DEGREE IN COMPUTER from Informatics Engineering t Brawijaya University with interest in Data Science and Deep Learning. Seeking project or internship opportunities.
+Hi there 👋, i am Marvel, a fresh graduate bachelor of Computer Science from  Brawijaya University with interest in Data Science and Deep Learning. Seeking project or internship opportunities.
 <br>
 <br>
 <br>

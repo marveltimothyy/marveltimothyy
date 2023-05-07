@@ -8,6 +8,8 @@ Hi there 👋, i am Marvel, a fresh graduate bachelor of Computer Science from  
 <a href="https://pytorch.org/" target="blank"><img align="center" src="https://img.shields.io/badge/-Pytorch-E94C2A?style=flat-square&labelColor=C1BEBC&logo=pytorch"/></a>
 <a href="https://flask.palletsprojects.com/en/2.0.x/" target="blank"><img align="center" src="https://img.shields.io/badge/-Flask-B9B1AC?style=flat-square&labelColor=000000&logo=flask"/></a>
 <a href="https://git-scm.com/" target="blank"><img align="center" src="https://img.shields.io/badge/-Git-00446F?style=flat-square&labelColor=C1BEBC&logo=git"/></a>
+<a href="[https://git-scm.com/](https://www.javascript.com/)" target="blank"><img align="center" src="https://img.shields.io/badge/-JavaScript-ffff00?style=flat-square&labelColor=000000&logo=javascript"/></a>
+<a href="[https://git-scm.com/](https://www.javascript.com/)" target="blank"><img align="center" src="https://img.shields.io/badge/-React-ADD8E6?style=flat-square&labelColor=000000&logo=react"/></a>
 And willing to learn other related tools!
 <br><br><br>
 # Recent Project 🎯
